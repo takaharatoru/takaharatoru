@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Toru Takahara</h1>
-<h3 align="center">Backend developer from Japan</h3>
+<h1 align="left">Hi 👋, I'm Toru Takahara</h1>
+<h3 align="left">Backend developer from Japan</h3>
 
 - 📝 I regularly write articles on [https://cravecreation.net/](https://cravecreation.net/)
 
