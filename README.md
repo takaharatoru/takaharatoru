@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Toru Takahara</h1>
 <h3 align="left">Backend developer from Japan</h3>
 
-- 📝 I regularly write articles on [https://cravecreation.net/](https://cravecreation.net/)
 - 📝 and articles on [https://catcream.net/](https://catcream.net/)
 
 <h3 align="left">Connect with me:</h3>
